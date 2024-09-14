@@ -18,36 +18,42 @@
   "accounting_addLots": {
     "en": "Add Lot(s)",
     "de": "Lot(s) hinzufügen",
+    "es": "Añadir Lote(s)",
     "tr": "Lot(ları) Ekle",
     "zh-Hant-TW": "新增交易紀錄"
   },
   "accounting_execution": {
     "en": "Execution",
     "de": "Ausführung",
+    "es": "Ejecución",
     "tr": "İşlem Yöntemi",
     "zh-Hant-TW": "執行"
   },
   "accounting_fifo": {
     "en": "FIFO",
     "de": "FIFO",
+    "es": "FIFO",
     "tr": "FİFO",
     "zh-Hant-TW": "先買先賣"
   },
   "accounting_fifoDescription": {
     "en": "First In, First Out",
     "de": "zuerst rein, zuerst raus",
+    "es": "Primero Dentro, Primero Fuera",
     "tr": "İlk Giren, İlk Çıkar",
     "zh-Hant-TW": "先買先賣"
   },
   "accounting_lifo": {
     "en": "LIFO",
     "de": "LIFO",
+    "es": "LIFO",
     "tr": "LİFO",
     "zh-Hant-TW": "後買先賣"
   },
   "accounting_lifoDescription": {
     "en": "Last In, First Out",
     "de": "Zuletzt rein, Zuerst raus",
+    "es": "Último Dentro, Último Fuera",
     "tr": "Son Giren, İlk Çıkar",
     "zh-Hant-TW": "後買先賣"
   },
@@ -60,54 +66,63 @@
   "accounting_highCostDescription": {
     "en": "Shares that were most expensive are sold first",
     "de": "Die teuersten Aktien werden zuerst verkauft",
+    "es": "Acciones que fueron más caras se venden primero",
     "tr": "Önce en pahalı hisseler satılır",
     "zh-Hant-TW": "成本最高的先賣"
   },
   "accounting_lowCost": {
     "en": "Low Cost",
     "de": "Niedrigster Preis",
+    "es": "Coste Bajo",
     "tr": "Düşük Maliyetli",
     "zh-Hant-TW": "成本低"
   },
   "accounting_lowCostDescription": {
     "en": "Shares that were the least expensive are sold first",
     "de": "Die günstigsten Aktien werden zuerst verkauft",
+    "es": "Acciones que fueron más barats se venden primero",
     "tr": "Önce en ucuz olan hisseler satılır",
     "zh-Hant-TW": "成本最低的先賣"
   },
   "accounting_noLotsFound": {
     "en": "No lots found",
     "de": "keine Lots vorhanden",
+    "es": "No se encontraron Lotes",
     "tr": "Lotlar bulunamadı",
     "zh-Hant-TW": "找不到持有的紀錄"
   },
   "accounting_noLotsFoundHelp": {
     "en": "Couldn\\'t find any valid lots (transactions) to select before this transaction\\'s date",
     "de": "Es können keine gültigen Lots (Transaktionen) vor diesem Transaktionsdatum zur Auswahl gefunden werden",
+    "es": "No se pudo encontrar ningún lote(s) (Transacciones) válido para seleccionar antes de esta transacción",
     "tr": "Seçilen işlem tarihinden önce geçerli lotlar (işlemler) bulunamadı",
     "zh-Hant-TW": "在此交易日期之前找不到有效的紀錄（交易）"
   },
   "accounting_selectLots": {
     "en": "Select Lots",
     "de": "Lots auswählen",
+    "es": "Seleccionar Lotes",
     "tr": "Lotları Seç",
     "zh-Hant-TW": "選擇交易紀錄"
   },
   "accounting_weightedAverage": {
     "en": "Weighted Average",
     "de": "Durchschnittlich gewichtet",
+    "es": "Media Ponderada",
     "tr": "Ağırlıklı Ortalama",
     "zh-Hant-TW": "加權平均"
   },
   "accounting_weightedAverageDescription": {
     "en": "The cost basis is calculated using the current unrealized cost per share",
     "de": "Die Berechnungsgrundlage ist der aktuelle nicht realisierter Wert pro Aktie",
+    "es": "La base del coste es calculada usando el coste actual de las acciones sin realizar",
     "tr": "Maliyet esası, hisse başına cari gerçekleşmemiş maliyet kullanılarak hesaplanır",
     "zh-Hant-TW": "成本計算使用現有庫存股每股均價計算"
   },
   "accounting_specificLots": {
     "en": "Specific Lots",
     "de": "Spezielle Lots",
+    "es": "Lotes Específicos",
     "tr": "Belirli Lotlar",
     "zh-Hant-TW": "特定交易紀錄"
   },
